@@ -163,6 +163,9 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + [SF Design Systems Coalition](https://www.meetup.com/San-Francisco-Design-Systems-Coalition/). Interesting topics like Design Systems at Twitter (hosted at Twitter, of course.)
 
++ [SF Design and Emerging Tech Meetup](https://www.meetup.com/SF-Design-and-Emerging-Tech-Meetup/).
+Meetup covering the intersection of design and emerging technology. Common topics include generative design, contextual computing, machine learning and artificial intelligence.
+
 ### Bitcoin meetups
 + [SF Bitcoin Social](https://www.meetup.com/San-Francisco-Bitcoin-Social/). Besides weekly drinks, talks have included Sidechains and List with [Max Kordek](https://twitter.com/MaxKordek) (Lisk CEO), and other CEOs.
 
